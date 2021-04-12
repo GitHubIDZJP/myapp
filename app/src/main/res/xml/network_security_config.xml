@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--禁用掉明文流量请求的检查-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true"/>
+</network-security-config>
